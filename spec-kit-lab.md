@@ -14,8 +14,8 @@ Spec Kit is an open-source toolkit for **Specification-Driven Development (SDD)*
 
 ## The 6-Step Process
 
-| Step | Command                                        | What You Do |
-|------|------------------------------------------------|-------------|
+| Step                  | Command                                        | What You Do |
+|-----------------------|------------------------------------------------|-------------|
 | **1. Initialize** | `specify init` | Scaffold a Spec Kit project with templates, scripts, and agent config |
 | **2. Constitution** | `/speckit.constitution` | Define project principles, constraints, and guardrails |
 | **3. Specify** | `/speckit.specify` | Describe *what* you want to build — requirements, not implementation |
