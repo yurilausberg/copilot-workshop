@@ -1,4 +1,4 @@
-# Starbucks GitHub Copilot Agentic DevOps Workshop
+# GitHub Copilot Agentic DevOps Workshop
 
 **Date:** April 14, 2026 | **Duration:** 9:00 AM – 3:30 PM  
 **Audience:** ~100+ developers (mixed experience — beginners to advanced)  
