@@ -1,6 +1,6 @@
 # 🌱 Build with Spec Kit — Hands-On Workshop
 
-**Workshop:** Starbucks GitHub Copilot Agentic DevOps Workshop  
+**Workshop:**GitHub Copilot Agentic DevOps Workshop  
 **Duration:** 45 minutes | **Presenter:** Yuri Lausberg  
 **Repo:** [github.com/github/spec-kit](https://github.com/github/spec-kit)
 
