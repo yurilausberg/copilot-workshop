@@ -1,6 +1,6 @@
 # 🚀 Copilot Workshop
 
-**Starbucks GitHub Copilot Agentic DevOps Workshop**
+**GitHub Copilot Agentic DevOps Workshop**
 **Date:** April 14, 2026
 
 Welcome! This repo contains the agenda and hands-on lab materials for the workshop.
